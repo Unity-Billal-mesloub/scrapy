@@ -15,20 +15,20 @@
    :target: https://pypi.org/pypi/Scrapy
    :alt: Supported Python Versions
 
-.. |ubuntu| image:: https://github.com/scrapy/scrapy/workflows/Ubuntu/badge.svg
+.. |ubuntu| image:: https://github.com/Unity-Billal-mesloub/scrapy/workflows/Ubuntu/badge.svg
    :target: https://github.com/scrapy/scrapy/actions?query=workflow%3AUbuntu
    :alt: Ubuntu
 
-.. |macos| image:: https://github.com/scrapy/scrapy/workflows/macOS/badge.svg
-   :target: https://github.com/scrapy/scrapy/actions?query=workflow%3AmacOS
+.. |macos| image:: https://github.com/Unity-Billal-mesloub/scrapy/workflows/macOS/badge.svg
+   :target: https://github.com/Unity-Billal-mesloub/scrapy/actions?query=workflow%3AmacOS
    :alt: macOS
 
-.. |windows| image:: https://github.com/scrapy/scrapy/workflows/Windows/badge.svg
-   :target: https://github.com/scrapy/scrapy/actions?query=workflow%3AWindows
+.. |windows| image:: https://github.com/Unity-Billal-mesloub/scrapy/workflows/Windows/badge.svg
+   :target: https://github.com/Unity-Billal-mesloub/scrapy/actions?query=workflow%3AWindows
    :alt: Windows
 
 .. |coverage| image:: https://img.shields.io/codecov/c/github/scrapy/scrapy/master.svg
-   :target: https://codecov.io/github/scrapy/scrapy?branch=master
+   :target: https://codecov.io/github/Unity-Billal-mesloub/scrapy?branch=master
    :alt: Coverage report
 
 .. |conda| image:: https://anaconda.org/conda-forge/scrapy/badges/version.svg
@@ -43,7 +43,7 @@ Scrapy_ is a web scraping framework to extract structured data from websites.
 It is cross-platform, and requires Python 3.10+. It is maintained by Zyte_
 (formerly Scrapinghub) and `many other contributors`_.
 
-.. _many other contributors: https://github.com/scrapy/scrapy/graphs/contributors
+.. _many other contributors: https://github.com/Unity-Billal-mesloub/scrapy/graphs/contributors
 .. _Scrapy: https://scrapy.org/
 .. _Zyte: https://www.zyte.com/
 
@@ -59,4 +59,4 @@ And follow the documentation_ to learn how to use it.
 
 If you wish to contribute, see Contributing_.
 
-.. _Contributing: https://docs.scrapy.org/en/master/contributing.html
+.. _Contributing: https://docs.scrapy.org/en/main/contributing.html
